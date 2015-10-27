@@ -30,7 +30,9 @@ KAYPRO 4
 •	What operating system does it run? CP/M 2.2
 •	How much did it cost (then and now, adjusted for inflation)? ~$3500 in 1984 (~$8000 in 2015)
 How hard is it to find one on the secondhand market (check eBay and Craig’s List)? There is one Kaypro 4 + printer listed on eBay for $299. There are also a few other Kaypro I and II models listed at significantly lower prices. There is one "KayPro 10 Luggable Computer" listed on the Washington-area Craigslist for $50. 
+
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+Kaypro made some of the first "luggable" computers, making them very popular home and personal computer, however, the company was slow to adapt to emerging IBM technologies and went bankrupt in 1992. Compared to its predecessor/competitor, the Osborne, the Kaypro had a larger screen and was more affordable. It was boxier and heavier than the Osborne, but because of that, it was more popular for industrial use. The Kaypro IV was released a year earlier. The Kaypro IV and Kaypro 4 both used double sided discs, but the Kaypro 4 was faster, had a real-time clock, a sharper display, half-height drives, and differently-shaped F and J keys. 
 
 Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, experimenting with some commands based on the keyboard template. (You don’t need to save your document.)
 At first, my keystrokes weren't showing up on the screen, even though the keyboard was making the beeping sound as I typed. After a lot of taking the disk in and out, resetting, and turning the machine on and off, I was able to get WordStar to run. If I had to type a paper on this machine, I would probably really struggle with not having the kind of tactile control that I'm used to with using a mouse/cursor, but I think that eventually, after I learned all the proper commands (and probably a lot of trial and error), I might be able to have nearly the same kind of control over document design as I do in modern programs.
@@ -79,6 +81,10 @@ How hard is it to find one on the secondhand market (check eBay and Craig’s Li
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
 
 Turn it on (you must figure out how). Try the demos. What else can it do? (Hint: try the “Amiga Appetizer” disk). Have a look at the Amiga magazines and the book, The Future Was Here.
+
+Amiga appetizer includes a text writing tool, though it’s not quite a word processor (more of a notepad), a music composing tool, and a paint program (though I wasn’t able to get it to work). The programs tended to freeze a lot and sometimes did not recognize when a disk had been inserted (even though it had been operating the disk just seconds before). 
+Graphicraft seems like it could be a cool program, though I could not figure out how a user could somehow create their own images and animations (other than meticulously using the draw tool). These just seemed like sample images/animations. 
+Gizmoz II also seemed potentially useful for organization and business, however, it requires constantly switching between the Gizmoz and Workbench disks. 
 
 
 ===================================================================================================================
